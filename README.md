@@ -1,4 +1,4 @@
-# Hello World!, I'm Haa-meem, a MERN Stack Developer 👋🏼:
+# Hi👋🏼, I'm Haa-meem Al Hamra
 👨🏼‍🎓 studying Electrical and Computer Engineering at Rajshahi University of Engineering Technology
 
 
@@ -11,6 +11,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haa-meem&show_icons=true&locale=en" alt="haa-meem" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haa-meem&" alt="haa-meem" /></p>
+
+# 📡 Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/haa-meem13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haa-meem13" height="30" width="40" /></a>
+<a href="https://www.facebook.com/AlHamraHaa.meem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="AlHamraHaa.meem" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Haa-meem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Haa-meem" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/haameemalhamra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="haameemalhamra" height="30" width="40" /></a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
