@@ -1,6 +1,7 @@
 # Hi👋🏼, I'm Haa-meem Al Hamra
 👨🏼‍🎓 studying Electrical and Computer Engineering at Rajshahi University of Engineering Technology
 
+<img src="https://github.com/haa-meem/haa-meem/blob/main/images/Haa-meemAlHamraBanner.gif" alt="Banner Image" style="max-width: 100%; height: auto;">
 <table>
   <tr>
     <td valign="top">
@@ -53,11 +54,14 @@
 </table>
 
 # 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haa-meem&show_icons=true&locale=en&layout=compact" alt="haa-meem" /></p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=haa-meem&theme=dark&hide_border=false)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haa-meem&show_icons=true&locale=en" alt="haa-meem" /></p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=haa-meem&theme=darkhub&no-frame=true&margin-w=15)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haa-meem&" alt="haa-meem" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=haa-meem&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haa-meem&layout=compact&theme=radical)
+
+![](https://komarev.com/ghpvc/?username=haa-meem&style=flat-square)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
