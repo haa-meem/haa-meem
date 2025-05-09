@@ -1,6 +1,6 @@
-# Hi👋🏼, I'm Haa-meem Al Hamra
-👨🏼‍🎓 studying Electrical and Computer Engineering at Rajshahi University of Engineering Technology (RUET)
 
+## <p align="center">Hi👋🏼, I'm Haa-meem Al Hamra👋</p>
+👨🏼‍🎓 studying Electrical and Computer Engineering at Rajshahi University of Engineering Technology (RUET)
 <img src="https://github.com/haa-meem/haa-meem/blob/main/images/Haa-meemAlHamraBanner.gif" alt="Banner Image" style="max-width: 100%; height: auto;">
 <table>
   <tr>
