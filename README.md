@@ -59,6 +59,11 @@
 
 # 📊 GitHub Stats:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=haa-meem&theme=dark&hide_border=false)
+<div align="center">
+  <a href="https://github.com/haa-meem">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=haa-meem&bg_color=00000000&color=1E90FF&line=87CEEB&point=00BFFF&area_color=87CEFA&area=true" />
+  </a>
+</div>
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=haa-meem&theme=darkhub&no-frame=true&margin-w=15)
 
