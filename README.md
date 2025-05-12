@@ -1,4 +1,4 @@
-## <h1 align="center">Hi👋🏼, I'm Haa-meem Al Hamra👋
+<h1 align="center">Hi👋🏼, I'm Haa-meem Al Hamra👋
 </h1>
 <p align="center">
   👨🏼‍🎓 studying Electrical and Computer Engineering at Rajshahi University of Engineering Technology (RUET)
