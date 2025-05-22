@@ -1,7 +1,7 @@
-<h1 align="center">Hi👋🏼, I'm Haa-meem Al Hamra👋
+<h1 align="center">Hi👋🏼, I'm Haa-meem Al Hamra
 </h1>
 <p align="center">
-👨🏼‍🎓 Pursuing a degree in Electrical and Computer Engineering at Rajshahi University of Engineering & Technology (RUET)
+👨🏼‍🎓 pursuing a degree in Electrical and Computer Engineering at Rajshahi University of Engineering & Technology (RUET)
 
 </p>
 
