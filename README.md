@@ -32,22 +32,22 @@
   <h3 align="left">📡 Connect with me:</h3>
   <p align="left" style="display: flex; gap: 12px;">
   <a href="https://www.linkedin.com/in/haa-meem13" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="32" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="32" height="32" />
   </a>&nbsp;
   <a href="mailto:haameemalhamra@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="32" />
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="32" height="32" />
   </a>&nbsp;
   <a href="https://www.facebook.com/AlHamraHaa.meem" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="32" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="32" height="32" />
   </a>&nbsp;
   <a href="https://leetcode.com/u/haameemalhamra/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="32" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="32" height="32" />
   </a>&nbsp;
   <a href="https://codeforces.com/profile/Haa-meem" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="32" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" width="32" height="32" />
   </a>&nbsp;
   <a href="https://discord.com/users/haa-meem#5067" target="_blank">
-    <img src="https://img.icons8.com/color/48/discord-logo.png" alt="Discord" height="32" />
+    <img src="https://img.icons8.com/color/48/discord-logo.png" alt="Discord" width="32" height="32" />
   </a>
   </p>
    </td>
