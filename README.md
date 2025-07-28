@@ -2,7 +2,7 @@
   Hi👋🏼, I'm Haa-meem
 </h1>
 <p align="center">
- 👨🏼‍🎓 pursuing a degree in Electrical and Computer Engineering (ECE) at Rajshahi University of Engineering & Technology (RUET)
+ 👨🏼‍🎓 pursuing a degree in Electrical and Computer Engineering at Rajshahi University of Engineering & Technology (RUET)
 </p>
 
 <img src="https://github.com/haa-meem/haa-meem/blob/main/images/Haa-meemAlHamraBanner.gif" alt="Banner Image" style="max-width: 100%; height: auto;">
