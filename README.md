@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi👋🏼, I'm Haa-meem
+  Hi👋🏼, I'm Haa-meem Al Hamra
 </h1>
 <p align="center">
  👨🏼‍🎓 pursuing a degree in Electrical and Computer Engineering (ECE) at Rajshahi University of Engineering & Technology (RUET)
