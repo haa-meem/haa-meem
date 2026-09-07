@@ -72,7 +72,7 @@
 
 <br />
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/haa-meem">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=haa-meem&bg_color=00000000&color=1E90FF&line=87CEEB&point=00BFFF&area_color=87CEFA&area=true&v=1" alt="Activity Graph" />
   </a>
@@ -96,7 +96,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=haa-meem&style=flat-square" alt="Profile Views" />
 </div>
-<br />
+<br /> -->
 
 <div align="center">
   <picture>
