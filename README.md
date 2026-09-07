@@ -4,13 +4,10 @@
 <p align="center">
   👨🏼‍🎓 pursuing a degree in Electrical and Computer Engineering (ECE) at Rajshahi University of Engineering & Technology (RUET)
 </p>
-
 <div align="center">
   <img src="https://github.com/haa-meem/haa-meem/raw/main/images/Haa-meemAlHamraBanner.gif" alt="Banner Image" style="max-width: 100%; height: auto;">
 </div>
-
 <br />
-
 <table>
   <tr>
     <td valign="top">
@@ -61,43 +58,30 @@
     </td>
   </tr>
 </table>
-
-<br />
-
 <h2 align="center">📊 GitHub Stats</h2>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=haa-meem&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div>
-
 <br />
-
 <!-- <div align="center">
   <a href="https://github.com/haa-meem">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=haa-meem&bg_color=00000000&color=1E90FF&line=87CEEB&point=00BFFF&area_color=87CEFA&area=true&v=1" alt="Activity Graph" />
   </a>
 </div>
-
 <br />
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=haa-meem&theme=darkhub&no-frame=true&margin-w=15&v=1" alt="GitHub Trophies" />
 </div>
-
 <br />
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=haa-meem&show_icons=true&theme=radical&v=1" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haa-meem&layout=compact&theme=radical&v=1" alt="Top Languages" />
 </div>
-
 <br /> -->
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=haa-meem&style=flat-square" alt="Profile Views" />
 </div>
 <br />
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haa-meem/haa-meem/output/github-snake-dark.svg" />
