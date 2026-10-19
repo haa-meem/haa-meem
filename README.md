@@ -63,7 +63,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=haa-meem&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div>
 <br />
-<!-- <div align="center">
+<div align="center">
   <a href="https://github.com/haa-meem">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=haa-meem&bg_color=00000000&color=1E90FF&line=87CEEB&point=00BFFF&area_color=87CEFA&area=true&v=1" alt="Activity Graph" />
   </a>
@@ -77,7 +77,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=haa-meem&show_icons=true&theme=radical&v=1" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haa-meem&layout=compact&theme=radical&v=1" alt="Top Languages" />
 </div>
-<br /> -->
+<br />
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=haa-meem&style=flat-square" alt="Profile Views" />
 </div>
