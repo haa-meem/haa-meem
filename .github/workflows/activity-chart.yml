@@ -1,0 +1,81 @@
+name: Update contribution chart
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '17 0 * * *' # Daily at 00:17 UTC
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-activity-assets
+  cancel-in-progress: false
+
+jobs:
+  chart:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Generate contribution charts
+        uses: dturovskiy/deus-commit-chart@v1.5.3
+        with:
+          source: github
+          username: ${{ github.repository_owner }}
+          token: ${{ github.token }}
+          default-days: '30'
+          ranges: '30,90,365'
+          layout: spacious
+          theme: github-compact
+          hide-border: 'true'
+          output-dir: activity-dist
+
+      - name: Publish charts to the activity-assets branch
+        shell: bash
+        env:
+          TARGET_BRANCH: activity-assets
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+
+          parent="$(mktemp -d)"
+          worktree="$parent/working"
+          trap 'git worktree remove -f "$worktree" >/dev/null 2>&1 || true; rm -rf "$parent"' EXIT
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git_auth=(-c credential.helper= -c credential.helper='!gh auth git-credential')
+
+          if git "${git_auth[@]}" ls-remote --exit-code --heads origin "$TARGET_BRANCH" >/dev/null; then
+            git "${git_auth[@]}" fetch --no-tags origin "$TARGET_BRANCH"
+            git worktree add --detach "$worktree" FETCH_HEAD
+          else
+            rc=$?
+            if [[ "$rc" -ne 2 ]]; then
+              echo "Unable to check the remote assets branch; aborting." >&2
+              exit "$rc"
+            fi
+            git worktree add --detach "$worktree" HEAD
+            git -C "$worktree" switch --orphan "$TARGET_BRANCH"
+          fi
+
+          # This branch is reserved exclusively for generated chart files.
+          git -C "$worktree" rm -r --ignore-unmatch . >/dev/null
+          find "$worktree" -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
+          cp -a "$GITHUB_WORKSPACE/activity-dist/." "$worktree/"
+          git -C "$worktree" add -A
+
+          if git -C "$worktree" diff --cached --quiet; then
+            echo "No chart changes to publish."
+            exit 0
+          fi
+
+          git -C "$worktree" commit -m "chore: refresh contribution charts"
+          git -C "$worktree" "${git_auth[@]}" push origin "HEAD:refs/heads/$TARGET_BRANCH"
